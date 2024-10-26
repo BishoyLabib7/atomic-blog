@@ -1,7 +1,8 @@
 # ⚛ The Atomic Blog
 
 <h1 align="center">
-    <img src="favicon.ico"/>
+    <img src="atomic-blog-Light.ico"/>
+    <img src="atomic-blog-Dark.ico"/>
 </h1>
 
 ## What is Atomic Blog?

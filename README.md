@@ -7,7 +7,7 @@
 
 ## What is Atomic Blog?
 
-his React project is from the current ultimate-react-course that I'm taking. Check out the instructor: <a href="https://github.com/jonasschmedtmann">Jonas Schmedtmann</a>. It is a React application that allows users to create, search, and manage blog posts. It features a dark mode toggle, search functionality, and the ability to add and clear posts. Users can also view
+His react project is from the current ultimate-react-course that I'm taking. Check out the instructor: <a href="https://github.com/jonasschmedtmann">Jonas Schmedtmann</a>. It is a React application that allows users to create, search, and manage blog posts. It features a dark mode toggle, search functionality, and the ability to add and clear posts. Users can also view
 
 ---
 

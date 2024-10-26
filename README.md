@@ -9,6 +9,14 @@
 
 His react project is from the current ultimate-react-course that I'm taking. Check out the instructor: <a href="https://github.com/jonasschmedtmann">Jonas Schmedtmann</a>. It is a React application that allows users to create, search, and manage blog posts. It features a dark mode toggle, search functionality, and the ability to add and clear posts. Users can also view
 
+# Technologies Used
+ 👉 React for the UI structure, leveraging hooks and components.
+ 👉 Context API for state management, particularly for handling blog post data and user preferences.
+
+# Optional Enhancements
+ 👉 Dark Mode: A toggle feature for users to switch between light and dark themes.
+ 👉 Rich Editor with Plugins: Enhanced editor with plugins for easy embedding of social posts.
+
 ---
 
 # Important
